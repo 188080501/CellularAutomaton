@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/DefaultDocument">
+        <file>A</file>
+        <file>B</file>
+        <file>C</file>
+    </qresource>
+</RCC>
